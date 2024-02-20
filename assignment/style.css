@@ -18,6 +18,8 @@ p {
 /* Put a border around your image */
 img {
   border-style: solid;
+  display: block;
+  margin: auto;
 }
 /* Change the font-family of your list */
 li {
